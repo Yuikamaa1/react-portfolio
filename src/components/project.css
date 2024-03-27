@@ -1,0 +1,23 @@
+.project-body{
+    background-color: rgb(4, 51, 4);
+}
+.card-text{
+    color: black;
+    font-size: larger;
+    font-weight: 400;
+}
+.card-title{
+    color: rgb(58, 170, 38);
+    font-size: large;
+    font-weight: 800;
+}
+.card-text::first-letter{
+    color: black;
+    font-size: large;
+    font-weight: 400;
+}
+.h1{
+    color: black;
+    font-size: x-large;
+    font-weight: 400;
+}
